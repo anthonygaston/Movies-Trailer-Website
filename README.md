@@ -30,7 +30,7 @@ The application will open in your default browser.
 
 *the following demo uses [atom](atom.io) to run the application*
 
-![demo](https://res.cloudinary.com/frogpond/image/upload/v1494453565/demo_y9e0b5.gif)
+
 
 FUTURE DEVELOPMENT
 ==================
