@@ -30,7 +30,7 @@ The application will open in your default browser.
 
 *the following demo uses [atom](atom.io) to run the application*
 
-
+![demo](https://cloud.githubusercontent.com/assets/24944790/25923574/c21779a4-35a3-11e7-9f3f-b2bf4740274c.gif)
 
 FUTURE DEVELOPMENT
 ==================
